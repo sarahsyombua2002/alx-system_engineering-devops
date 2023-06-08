@@ -1,2 +1,2 @@
 #!/bin/bash
--map
+ls -xamp
